@@ -1,0 +1,12 @@
+body {
+	font-style: 'Roboto', 'Raleway', san-serif;
+	background-color: rgb(229, 229, 229);
+	color: rgb(33, 33, 33);
+}
+a {
+	text-decoration: none;
+}
+ul,
+ol {
+	list-style-type: none;
+}
